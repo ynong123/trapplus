@@ -16,7 +16,7 @@ This mod adds some terrifiying traps which may kill somebody, empty somebody's i
 
 **Depends:** default (can be found in minetest_game)
 
-Report bugs or request help on the [forum topic](https://forum.minetest.net/).
+Report bugs or request help on the [forum topic](https://forum.minetest.net/viewtopic.php?f=9&t=17464).
 
 ## Download
 
