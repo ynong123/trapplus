@@ -1,4 +1,4 @@
-# Trapplus
+ # Trapplus
 
 ![Screenshot](http://i.imgur.com/ZVV5tYq.png)
 
@@ -18,13 +18,13 @@ This mod adds some terrifiying traps which may kill somebody, empty somebody's i
 
 Report bugs or request help on the [forum topic](https://forum.minetest.net/).
 
-##Download
+## Download
 
 1.0 (Latest): [Download](https://github.com/ynong123/trapplus/archive/1.0.zip) | [GitHub](https://github.com/ynong123/trapplus/tree/1.0)
 
-##Tutorials
+## Tutorials
 
-###Crafting
+### Crafting
 
 Place the original block in the middle and mese crystal fragments outside the block. There are five available craftings like the pictures shown below:
 
